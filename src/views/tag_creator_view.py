@@ -1,5 +1,5 @@
-from .http_types.http_request import HttpRequest
-from .http_types.http_response import HttpResponse
+from src.views.http_types.http_request import HttpRequest
+from src.views.http_types.http_response import HttpResponse
 
 
 class TagCreatorView:

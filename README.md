@@ -41,6 +41,6 @@ If you would like to contribute to this project, follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 ## Contact
-If you have any questions, contact the author directly at e-mail  [email](mailto: eduardolirainfo@gmail.com) or [GitHub](https://github.com/eduardolirainfo/)
+If you have any questions, contact the author directly at [GitHub](https://github.com/eduardolirainfo/)
 ```
 
